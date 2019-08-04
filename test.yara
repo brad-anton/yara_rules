@@ -1,1 +1,1 @@
-aaa
+rule dummy { condition: true }
